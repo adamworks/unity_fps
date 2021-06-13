@@ -22,11 +22,11 @@ public class MouseLook : MonoBehaviour
     [SerializeField]
     private float smooth_Weight = 0.4f;
 
-    [SerializeField]
-    private float roll_Angle = 0f; //10f;
+    //[SerializeField]
+    //private float roll_Angle = 0f; //10f;
 
-    [SerializeField]
-    private float roll_Speed = 3f;
+    //[SerializeField]
+    //private float roll_Speed = 3f;
 
     [SerializeField]
     private Vector2 default_Look_Limits = new Vector2(-70f, 80f);
